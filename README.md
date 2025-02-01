@@ -10,6 +10,14 @@ I'm a developer working with computer graphics, computer vision, and robotics - 
 - 🖥️ Systems & Performance Optimization
 - ✏️ Digital & Traditional Art
 
+
+## Get in touch!
+
+📧 E-mail: [isabel.rosario102000@gmail.com](mailto:isabel.rosario102000@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/isabel-ros%C3%A1rio-5875b725b/)
+
+
 ## Latest Projects
 
 🌟 [NES Emulator](https://github.com/rospuye/NES_emulator) – A behavioural emulation of the NES gaming console in C++.
@@ -43,12 +51,6 @@ I'm a developer working with computer graphics, computer vision, and robotics - 
 🌟 [AR Paint](https://github.com/rospuye/PSR_ARPaint) – A Paint-like application where the user paints through the use of his phone screen in AR.
 
 - computer graphics, AR
-
-## Get in touch!
-
-📧 E-mail: [isabel.rosario102000@gmail.com](mailto:isabel.rosario102000@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/isabel-ros%C3%A1rio-5875b725b/)
 
 ---
 
