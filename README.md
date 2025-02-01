@@ -1,44 +1,55 @@
 # Hi there 👋
 
-## About me
+I'm a developer working with computer graphics, computer vision, and robotics - with some interest in game development as well! When I'm not coding, I'm an avid reader, I love drawing and painting, and I'm forever out in the wild hiking or running.
 
-My name is Isabel Rosário, I'm a passionate software developer currently working with Three.js in Aveiro, Portugal, and I have a deep love for all things computer graphics. With a background in Informatics Engineering and over 2 years of academic and professional experience in Three.js, I'm on a mission to make the digital world a more visually appealing place. By day, I create immersive web experiences, and by night, I dive into the realms of UX design, the demoscene, and more!
+## Technologies and Interests
 
-My curiosity knows no bounds, and I'm always exploring new horizons in computer graphics, whether it's for the web or beyond!
+- 🎨 Computer Graphics
+- 👀 Computer Vision
+- 🎮 Game Development
+- 🖥️ Systems & Performance Optimization
+- ✏️ Digital & Traditional Art
 
-## My expertise
+## Latest Projects
 
-- 🚀 **Web graphics**: I'm your go-to person for crafting jaw-dropping visuals using Three.js. From interactive web applications to stunning animations, I've got it covered.
-- 🎨 **UX Design**: I'm constantly enhancing my skills in UX design to create user-centric experiences that not only look good but also feel intuitive.
-- 🌐 **3D World**: Unity and Blender are my playgrounds when I'm not tinkering with the web. I enjoy creating 3D worlds, characters, and animations just for fun.
+🌟 [NES Emulator](https://github.com/rospuye/NES_emulator) – A behavioural emulation of the NES gaming console in C++.
 
-## What I bring to the table
+- C++, X11, OpenGL
 
-- 🚀 A blend of academic knowledge and real-world experience.
-- 💼 Multiple full-fledged projects, showcasing my dedication and expertise.
-- 🧠 An insatiable curiosity for pushing the boundaries of computer graphics.
+🌟 [Self-Avatars for Cybersickness Mitigation](https://github.com/rospuye/AvatarCybersicknessVR) – A small VR game for a research project exploring how the presence of self-avatars impacts cybersickness symptoms, such as headache, nausea, and disorientation.
 
-## Let's connect!
+- Unity, Python, Meta Quest 2, VR
+- 🎥 [Video demo](https://www.youtube.com/watch?v=ug91L_reHik)
 
-I'm always up for a good tech chat or collaboration. Feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/isabel-ros%C3%A1rio-5875b725b), or here on GitHub.
+🌟 [Moody: Self-Care and Productivity](https://brash-note-25c.notion.site/13e796e3841f8038a788e320d6a262e9) – A UI/UX project aiming to understand the relationship between mood tracking, productivity and young adults' app usage habits.
 
-## Completed projects
+- UI/UX research
 
-Here are some of the gems from my portfolio:
+🌟 [The Economic History Of The European Union](https://github.com/miguelmdionisio/InfoVizProject) – A data visualization project pertaining to the economic history of the European Union, from 1990 to 2018.
 
-- ⚽️ [FoCo: Automatic Commentator For Robotic Football](https://github.com/rospuye/PI21-22_ComentadorFutebol): A fully automated commentator for RoboCup Simulation League games. Besides the AI knowledge, this project required a lot of web development, some tinkering with natural language processing and realistic text-to-speech technology, and a lot of computer graphics work.
-- 🤖 [Robutler: Alberto, The Robotic Butler](https://github.com/RobutlerAlberto/RobutlerAlberto): A robotic system that works as a butler, which was able to execute several tasks usually undertaken by humans. This project spread over the areas of robotics, computer vision and AI.
-- 🖌️ [Augmented Reality Paint](https://github.com/rospuye/PSR_ARPaint): A functioning Paint-like program that is visualized and interacted with through AR. This project required knowledge in AR and image processing.
-- 🫐 [BlueberryPi: Monitorization For Blueberry Precision Agriculture](https://github.com/Dinis-Lei/BlueberryPi): A fullstack web project with the aim of providing a platform for precision farmers, through which they can control their crops, collect sensor data and manage their farms. This project required knowledge in frontend and backend development, as well as database work and UI/UX design.
+- D3, web development, data visualization
+- 🎥 [Video demo](https://www.youtube.com/watch?v=uNtNN_vjtng)
 
-## What's cookin'?
+## Backlog Projects
 
-I'm currently betting on informal education and self-teaching. Here's what I'm currently up to in my after work hours...
+🌟 [Robutler](https://github.com/RobutlerAlberto/RobutlerAlberto) – A robotic butler.
 
-- [Google's UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design) ![45%](https://progress-bar.dev/45)
-- [Book Of Shaders](https://thebookofshaders.com/) ![10%](https://progress-bar.dev/10)
-- [Full Blender Course](https://www.udemy.com/course/blendertutorial/) ![70%](https://progress-bar.dev/70)
+- robot navigation, robot control, obstacle avoidance, object identification, object manipulation
+
+🌟 [Automatic Commentator for Robotics Soccer](https://github.com/rospuye/PI21-22_ComentadorFutebol) – An automatic commentator for simulation league robotic soccer, equipped with different "personalities", configurable biases and a graphical avatar.
+
+- artificial intelligence, natural language processing, computer graphics
+
+🌟 [AR Paint](https://github.com/rospuye/PSR_ARPaint) – A Paint-like application where the user paints through the use of his phone screen in AR.
+
+- computer graphics, AR
+
+## Get in touch!
+
+📧 E-mail: [isabel.rosario102000@gmail.com](mailto:isabel.rosario102000@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/isabel-ros%C3%A1rio-5875b725b/)
 
 ---
 
-Thanks for dropping by! Feel free to explore my projects and don't hesitate to reach out if you have any questions, suggestions, or just want to chat about the wonderful world of computer graphics. 😄🎮🖥️
+Thanks for dropping by!
