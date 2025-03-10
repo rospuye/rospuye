@@ -1,11 +1,12 @@
 # Hi there 👋
 
-I'm a developer working with computer graphics, computer vision, and robotics - with some interest in game development as well! When I'm not coding, I'm an avid reader, I love drawing and painting, and I'm forever out in the wild hiking or running.
+I'm a developer working with AI, robotics and computer graphics - with some interest in game development as well! When I'm not coding, I'm an avid reader, I love drawing and painting, and I'm forever out in the wild hiking or running.
 
 ## 🔧 Technologies and Interests
 
+- 🎯 AI Alignment
+- 🤖 Robotics
 - 🎨 Computer Graphics
-- 👀 Computer Vision
 - 🎮 Game Development
 - 🖥️ Systems & Performance Optimization
 - ✏️ Digital & Traditional Art
